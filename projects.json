@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "PcToMovil",
+        "category": "escritorio",
+        "description": "PcToMovil es un software de escritorio que utiliza tecnologías web para crear un servidor local en tu computadora y poder establecer conexiones con otros dispositivos, una vez conectados al servidor podemos compartir archivos entre los dispositivos y la computadora.",
+        "imgs": [
+            {"id": 1, "src": "/static/img/PcToMovil/pctomovil1.png"},
+            {"id": 2, "src": "/static/img/PcToMovil/pctomovil2.png"},
+            {"id": 3, "src": "/static/img/PcToMovil/pctomovil3.png"},
+            {"id": 4, "src": "/static/img/PcToMovil/pctomovil4.png"}
+        ]
+    }
+]
