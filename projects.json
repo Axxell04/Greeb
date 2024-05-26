@@ -2,13 +2,40 @@
     {
         "id": 1,
         "name": "PcToMovil",
-        "category": "escritorio",
+        "category": "Escritorio",
         "description": "PcToMovil es un software de escritorio que utiliza tecnologías web para crear un servidor local en tu computadora y poder establecer conexiones con otros dispositivos, una vez conectados al servidor podemos compartir archivos entre los dispositivos y la computadora.",
         "imgs": [
             {"id": 1, "src": "/static/img/PcToMovil/pctomovil1.png"},
             {"id": 2, "src": "/static/img/PcToMovil/pctomovil2.png"},
             {"id": 3, "src": "/static/img/PcToMovil/pctomovil3.png"},
             {"id": 4, "src": "/static/img/PcToMovil/pctomovil4.png"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Tienda Online",
+        "category": "Web-full",
+        "description": "Este proyecto fue desarrollado con un enfoque comercial, con la finalidad de ser utilizado por un negocio que quiera entrar en el mundo digital, cuenta con una página principal, categorías, busqueda de productos, carrito de compras. Además cuenta con un panel de administrador, desde el cual poder manejar la tienda de una manera fácil e intuitiva.",
+        "site": "https://soryprinss.pythonanywhere.com/",
+        "imgs": [
+            {"id": 1, "src": "/static/img/TiendaOnline/tiendaonline1.jpg"},
+            {"id": 2, "src": "/static/img/TiendaOnline/tiendaonline2.jpg"},
+            {"id": 3, "src": "/static/img/TiendaOnline/tiendaonline3.png"},
+            {"id": 4, "src": "/static/img/TiendaOnline/tiendaonline4.png"},
+            {"id": 5, "src": "/static/img/TiendaOnline/tiendaonline5.png"},
+            {"id": 6, "src": "/static/img/TiendaOnline/tiendaonline6.png"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Asistente Musical",
+        "category": "Escritorio",
+        "description": "Este es un software para escritorio que genera un asistente musical en consola, con el cual nos podemos comunicar hablandole y dandole instrucciones, ya que cuenta con reconocimiento de voz y transcrición en tiempo real, lo que nos permite interactuar con el programa sin necesidad de interactuar con una interfaz. El programa cuenta con varios comandos de voz básicos de un reproductor de música, y también permite descargar tanto canciones como playlist's en caso de ser requerido.",
+        "imgs": [
+            {"id": 1, "src": "/static/img/AsistenteMusical/asistentemusical1.jpg"},
+            {"id": 2, "src": "/static/img/AsistenteMusical/asistentemusical2.jpg"},
+            {"id": 3, "src": "/static/img/AsistenteMusical/asistentemusical3.jpg"},
+            {"id": 4, "src": "/static/img/AsistenteMusical/asistentemusical4.jpg"}
         ]
     }
 ]
